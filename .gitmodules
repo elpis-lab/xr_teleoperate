@@ -1,9 +1,11 @@
 [submodule "teleop/televuer"]
 	path = teleop/televuer
 	url = https://github.com/elpis-lab/televuer.git
+	branch = main
 [submodule "teleop/robot_control/dex-retargeting"]
 	path = teleop/robot_control/dex-retargeting
 	url = https://github.com/silencht/dex-retargeting
 [submodule "teleop/teleimager"]
 	path = teleop/teleimager
 	url = https://github.com/elpis-lab/teleimager.git
+	branch = main
